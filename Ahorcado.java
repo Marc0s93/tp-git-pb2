@@ -30,7 +30,7 @@ public class Ahorcado {
 		case 4: 
 			resultado = a / b;
 		break;
-		case 5: 
+		case 5: 		//agrego potencia y raiz
 			resultado = Math.pow(a, b); 
 		break;
 		case 6: 
